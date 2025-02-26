@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Pedro Brandão, sou programador Front-End<br>  estou me aperfeiçoando
+Meu nome é Pedro Brandão, sou programador Front-End<br>  estou me aperfeiçoando
 com projetos em HTML e CSS, estudando JavaScript e React.
 <br> 📘📕
 <br>
