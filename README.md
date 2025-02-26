@@ -24,7 +24,7 @@ Apaixonado por tecnologia! :computer:
 <br>
 <br>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=PedroBrandaoSilva&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBrandaoSilva&show_icons=true&bg_color=00000000)
 
 <br>
 <br>
