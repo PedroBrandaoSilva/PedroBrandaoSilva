@@ -13,12 +13,12 @@ Apaixonado por tecnologia! :computer:
 <code>---Tecnologias---</code>
 <br>
 <br>
-<img width=35px src="https://github.com/PedroBrandaoSilva/imagens-github/raw/main/html-5.png">
-<img width=35px src="https://github.com/PedroBrandaoSilva/imagens-github/raw/main/css-3.png">
+![icons8-html-48](https://github.com/user-attachments/assets/ec411c37-660f-4e8e-894b-3179ff41f07e)
+![icons8-css-48](https://github.com/user-attachments/assets/461a61a1-6c63-4eb9-bf38-6e64e1f5fe34)
 ![icons8-js-48](https://github.com/user-attachments/assets/8774e0e8-ceb7-420e-a6b3-7b82c4516833)
-
 <img width=35px src="https://github.com/PedroBrandaoSilva/imagens-github/raw/main/React-icon.png">
  
+
 <br>
 <br>
 
