@@ -11,21 +11,12 @@ Desde o começo percebi uma coisa, que me ajudou bastante, o termo "cair de cabe
 tem que ter uma certa teoria, mas o aprendizado de verdade vem com a insistência, tem que "queimar os neurôrios", até resolver um bug, ou uma dificuldade que você tem</p>
 ---
 
-<br>
+Sou um desenvolvedor focado no Full-Stack, atualmente me especializando em:<br><br>
 
+✨ <strong>HTML,CSS e JavaScript</strong> com projetos práticos e responsivos, com foco em <strong>React</strong> e <strong>Vite.js</strong><br> <br>
 
-
-<h2 align="center">👨‍💻 Pontos interessantes</h3>
-<br>
-<br>
-
-<br>
-<p>
-Sou um desenvolvedor focado em Front-End, atualmente me especializando em:<br><br>
-✨ <strong>HTML e CSS</strong> com projetos práticos e responsivos <br>
-✨ <strong>JavaScript moderno</strong> com foco em <strong>React</strong> e <strong>Vite.js</strong><br>
-✨ Explorando o universo <strong>Back-End com Node.js, Express e MongoDB</strong><br>
-✨ Trabalhando com <strong>Axios</strong>, <strong>Git/GitHub</strong> e <strong>PostgreSQL</strong><br><br>
+✨ Explorando o universo Back-End com Node.js, Express e diversas bibliotecas, como o Axios para integração com o front-end, utilizando bancos de dados como MongoDB e PostgreSQL, além de ferramentas voltadas para autenticação e segurança dos dados dos usuários.
+✨ 
 Sempre aprendendo, praticando e buscando o próximo nível! ⚡
 </p>
 
@@ -33,8 +24,7 @@ Sempre aprendendo, praticando e buscando o próximo nível! ⚡
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 <h3 align="center">🛠️ Tecnologias que uso</h3>
 
@@ -44,19 +34,10 @@ Sempre aprendendo, praticando e buscando o próximo nível! ⚡
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
 
-
-  ---
-
-<h3 align="center">🚀 Tecnologias em crescimento constante</h3>
-
-<p align="center">
-  Estou sempre explorando novas ferramentas, frameworks e boas práticas para criar aplicações modernas, escaláveis e de alto desempenho.
-</p>
-
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroBrandaoSilva&show_icons=true&theme=dracula&locale=pt-br" />
+</div>
 
 
 
@@ -64,61 +45,24 @@ Sempre aprendendo, praticando e buscando o próximo nível! ⚡
 
 
 
+<br>
+<br>
+<br>
+<br>
 
-
-<h3 align="center">🧰 Alguns tópicos que tenho me aprofundado:</h3>
-
-<p>
-📦 Componentização no React com boas práticas<br>
-🔗 Integração com APIs REST usando Axios e Express<br>
-⚙️ Estruturação de back-end com Node.js + MongoDB/PostgreSQL<br>
-🎨 Estilização avançada com Styled Components e responsividade<br>
-🧪 Validações de formulários, feedbacks visuais e UX<br>
-🧠 Clean Code, organização e boas práticas com Git
-</p>
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="center">📌 Projetos em destaque</h3>
+<h3 align="center">📌 Portifólio com projetos em destaque</h3>
 
 <p align="center">
-  Em breve estarei destacando projetos reais que desenvolvi como freelancer, estudos e desafios do DevClub.<br>
-  <strong>Foco em projetos com propósito, que resolvem problemas reais e mostram o que posso entregar!</strong>
+  Aqui está meu portifólio com informações sobre projetos destacados, e com desenvolvimento usando todos os conhecimentos adiquiridos em meus estudos!
+<br>
+<a href="https://pedrobrandaosilva.netlify.app/" target="_blank"> Ver Portifólio<a/> 
 </p>
 
 
 
+<br><br>
 
 
-
-
-
-
-
-
-
----
 
 <h2 align="center">📫 Entre em contato comigo</h2>
 
@@ -131,9 +75,7 @@ Sempre aprendendo, praticando e buscando o próximo nível! ⚡
 ---
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 <p align="center">
